@@ -12,6 +12,9 @@
     "glslify": "^5.0.2",
     "icosphere": "^1.0.0"
   },
+  "scripts": {
+    "start": "budo demo.js -t glslify"
+  },
   "devDependencies": {
     "glsl-atmosphere": "^1.0.1"
   }
