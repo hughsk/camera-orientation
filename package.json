@@ -1,0 +1,18 @@
+{
+  "name": "camera-orientation",
+  "version": "1.0.0",
+  "dependencies": {
+    "camera-spin": "^3.0.1",
+    "canvas-fit": "^1.5.0",
+    "gl-context": "^0.1.1",
+    "gl-geometry": "^3.1.0",
+    "gl-mat4": "^1.1.4",
+    "gl-quat": "^1.0.0",
+    "gl-shader": "^4.2.0",
+    "glslify": "^5.0.2",
+    "icosphere": "^1.0.0"
+  },
+  "devDependencies": {
+    "glsl-atmosphere": "^1.0.1"
+  }
+}
